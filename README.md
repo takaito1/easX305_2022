@@ -2,9 +2,7 @@
 
 Week 1: Thermodynamic equation of state: [MATLAB](https://github.com/takaito1/easX305_2022/blob/main/week1/PCO_Week1.mlx), [python](https://github.com/takaito1/easX305_2022/blob/main/week1/PCO_Week1.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week1%2FPCO_Week1.ipynb) and some tips for reading excel file (.xls) [MATLAB](https://github.com/takaito1/easX305_2022/blob/main/week1/read_excel_from_BATS.mlx), [python](https://github.com/takaito1/easX305_2022/blob/main/week1/read_excel_from_BATS.ipynb)
 
-Week 2:
-
-Week 3:
+Week 2-3: T-S diagram: [MATLAB](https://github.com/takaito1/easX305_2022/blob/main/week2_3/TSdiagram_from_BATS.mlx), [python](https://github.com/takaito1/easX305_2022/blob/main/week2_3/TSdiagram_from_BATS.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week2_3%2FTSdiagram_from_BATS.ipynb)
 
 Week 4: 
 
