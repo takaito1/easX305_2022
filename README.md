@@ -4,7 +4,7 @@ Week 1: Thermodynamic equation of state: [MATLAB](https://github.com/takaito1/ea
 
 Week 2-3: T-S diagram: [MATLAB](https://github.com/takaito1/easX305_2022/blob/main/week2_3/TSdiagram_from_BATS.mlx), [python](https://github.com/takaito1/easX305_2022/blob/main/week2_3/TSdiagram_from_BATS.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week2_3%2FTSdiagram_from_BATS.ipynb)
 
-Week 5: Dynamic height from satellite altimeter: [python](https://github.com/takaito1/easX305_2022/blob/main/week5/Dynamic%20height%20from%20Satellite.ipynb) and from TS profiles [python](https://github.com/takaito1/easX305_2022/blob/main/week5/Dynamic%20height%20from%20TS.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week5%2FDynamic%20height%20from%20Satellite.ipynb)
+Week 5: Dynamic height from satellite altimeter: [python](https://github.com/takaito1/easX305_2022/blob/main/week5/Dynamic%20height%20from%20Satellite.ipynb) and from TS profiles, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week5%2FDynamic%20height%20from%20Satellite.ipynb), [python](https://github.com/takaito1/easX305_2022/blob/main/week5/Dynamic%20height%20from%20TS.ipynb)
 
 Week 6: Sverdrup model of ocean gyres: [python](https://github.com/takaito1/easX305_2022/blob/main/week6/Sverdrup_model.ipynb)
 
