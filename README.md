@@ -1,6 +1,6 @@
 # repo for EAS4305/6305 for Fall 2022
 
-Week 1: Thermodynamic equation of state: [MATLAB](), [python](), 
+Week 1: Thermodynamic equation of state: [MATLAB](), [python](), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week1%2FPCO_Week1.ipynb)
 
 Week 2:
 
