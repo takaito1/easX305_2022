@@ -1,0 +1,7 @@
+Please download World Ocean Atlas 2018 data from this website: 
+https://www.ncei.noaa.gov/data/oceans/woa/WOA18/DATA/
+
+To find the data you need, please select the variable you want to get (e.g. temperature) and select netCDF. 
+Then, select the resolution (1.00 is the global 1 degree product) and the time period (decav). 
+
+After that, you will have to choose the annual mean (e.g. woa18_decav_t00_01.nc)
