@@ -8,7 +8,7 @@ Week 5: Dynamic height from satellite altimeter: [python](https://github.com/tak
 
 Week 6: Sverdrup model of ocean gyres: [python](https://github.com/takaito1/easX305_2022/blob/main/week6/Sverdrup_model.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week6%2FSverdrup_model.ipynb)
 
-Week 11: Redfield ratio from P18 (2016/17) cruise data: [MATLAB script](https://github.com/takaito1/easX305/blob/main/week10_Redfield_Ratio.m), [MATLAB live script](https://github.com/takaito1/easX305/blob/main/week10_Redfield_Ratio.mlx), [python script](https://github.com/takaito1/easX305_2022/blob/main/week11/week11.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/blob/main/week11/week11.ipynb/HEAD)
+Week 11: Redfield ratio from P18 (2016/17) cruise data: [MATLAB script](https://github.com/takaito1/easX305/blob/main/week10_Redfield_Ratio.m), [MATLAB live script](https://github.com/takaito1/easX305/blob/main/week10_Redfield_Ratio.mlx), [python script](https://github.com/takaito1/easX305_2022/main/week11/week11.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week11%2Fweek11.ipynb)
 
 Week 12: Satellite estimates of NPP: [MATLAB script](https://github.com/takaito1/easX305/blob/main/week11_npp_exercise.m), [MATLAB live script](https://github.com/takaito1/easX305/blob/main/week11_npp_exercise.mlx), [python script](https://github.com/takaito1/easX305/blob/main/week11_npp_exercise.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305/HEAD?labpath=week11_npp_exercise.ipynb)
 
